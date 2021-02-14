@@ -47,6 +47,7 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
         <a href="https://www.typescriptlang.org/"><img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript" border="0"></a>
       </td>
       <td>
+        <a href="https://sass-lang.com/documentation/syntax"><img src="https://i.ibb.co/FsGpytB/scss-redmension.png" alt="scss-redmension" border="0"></a></a>&ensp;&ensp;&ensp;
         <a href="https://developer.android.com/studio"><img src="https://i.ibb.co/fQP8ZtY/androidstudio-redmension.png" alt="androidstudio-redmension" title="Android Studio" border="0"></a>&ensp;&ensp;&ensp;
         <a href="https://kotlinlang.org/"><img src="https://i.ibb.co/YPTFgHF/kotlin-redmension.png" alt="kotlin-redmension" title="Kotlin" border="0"></a>
       </td>       
