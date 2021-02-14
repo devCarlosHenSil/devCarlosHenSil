@@ -38,8 +38,8 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
       <td>
        <img src="https://i.ibb.co/fSHpZcK/Angular-redmension.png" alt="Angular-redmension" title="Angular" border="0">&ensp;&ensp;&ensp;
                             <img src="https://i.ibb.co/y4khFPj/bootstrap-redmension.png" alt="bootstrap-redmension" title="Bootstrap" border="0">&ensp;&ensp;&ensp;
-                            <img src="https://i.ibb.co/Lvq9TXc/node-redmension.png" alt="node-redmension" title="Node.Js" border="0">&ensp;&ensp;&ensp;
-                            <img src="https://i.ibb.co/D46tRpV/react-redmension.png" alt="react-redmension" title="React" border="0">
+                            <img src="https://i.ibb.co/7Ns7b5W/node-redmension.png" alt="node-redmension" title="Node.Js" border="0">&ensp;&ensp;&ensp;
+                            <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React" border="0"> 
       </td>
       <td>
         <img src="https://i.ibb.co/zZt8gcN/Python-redmension.png" alt="Python-redmension" title="Python" border="0">&ensp;&ensp;&ensp;
