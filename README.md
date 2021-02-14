@@ -1,3 +1,5 @@
+<img width="auto" src="https://i.ibb.co/yXXSDpJ/banner.png" alt="banner" border="0">
+
 ## Hi there, I'm [Carlos Henrique]()!:punch:
 
 <img src="https://i.ibb.co/zPZrdcM/flatdesignconcept.png" min-width="400px" max-width="400px" width="400px" align="right" alt="flatconcept">
