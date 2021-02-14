@@ -1,4 +1,4 @@
-<img width="auto" src="https://i.ibb.co/yXXSDpJ/banner.png" alt="banner" border="0">
+<img width="auto" src="https://i.ibb.co/XS68v06/banner.png" alt="banner" border="0">
 
 ## Hi there, I'm [Carlos Henrique]()!:punch:
 
@@ -85,3 +85,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/devCarlosHenSil"target="_blank"><img src="https://i.ibb.co/23MV8MP/githubwhite-redmension.png" alt="githubwhite-redmension" title="GitHub" border="0" /></a>&ensp;&ensp;&ensp;
 <a href="#"target="_blank"><img src="https://i.ibb.co/YdbgMTG/gitlab-redmension.png" alt="gitlab-redmension" title="GitLab" border="0" /></a>&ensp;&ensp;&ensp;
 <a href="https://www.reddit.com/user/LendaryStarkS"target="_blank"><img src="https://i.ibb.co/TWnGSvT/reddit-redmension.png" alt="reddit-redmension" title="Reddit" border="0" /></a>
+<br/>
+<br/>
+<img width= "auto" src="https://i.ibb.co/2KTf5Lh/footer.png" alt="footer" border="0">
