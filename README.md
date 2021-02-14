@@ -59,17 +59,17 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <center>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=devCarlosHenSil&show_icons=true&include_all_commits=true&theme=synthwave" alt="Carlos's github stats" />
+      <td><p align="center"><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=devCarlosHenSil&show_icons=true&include_all_commits=true&theme=synthwave" alt="Carlos's github stats" /></p>
       </td>
     </tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devCarlosHenSil&layout=compact&langs_count=20&theme=synthwave" />
+      <td><p align="left"><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devCarlosHenSil&layout=compact&langs_count=20&theme=synthwave" /></p>
       </td>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devXcodeZero&theme=synthwave&langs_count=20&layout=compact&v2&" />
+      <td><p align="rigth"><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devXcodeZero&theme=synthwave&langs_count=20&layout=compact&v2&" /> </p>
       </td>
     </tr>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devCarlosHenSil&hide_border=true&theme=synthwave" />
+      <td><p align="center"><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devCarlosHenSil&hide_border=true&theme=synthwave" /></p>
       </td>
     </tr>
 
