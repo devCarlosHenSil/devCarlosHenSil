@@ -59,13 +59,13 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <center>
     <tr>
-      <td><p align="center"><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=devCarlosHenSil&show_icons=true&include_all_commits=true&theme=synthwave" alt="Carlos's github stats" /></p>
+      <td><p align="center"><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=devCarlosHenSil&hide_border=true&show_icons=true&include_all_commits=true&theme=synthwave" alt="Carlos's github stats" /></p>
       </td>
     </tr>
-      <td><p align="center"><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devCarlosHenSil&layout=compact&langs_count=20&theme=synthwave" /></p>
+      <td><p align="center"><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devCarlosHenSil&hide_border=true&layout=compact&langs_count=20&theme=synthwave" /></p>
       </td>
     <tr>
-      <td><p align="center"><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devXcodeZero&theme=synthwave&langs_count=20&layout=compact&v2&" /> </p>
+      <td><p align="center"><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devXcodeZero&hide_border=true&theme=synthwave&langs_count=20&layout=compact&v2&" /> </p>
       </td>
     </tr>
     <tr>
