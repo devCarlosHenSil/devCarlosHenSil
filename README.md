@@ -24,7 +24,6 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 **Statistics:**
 
 ![](https://komarev.com/ghpvc/?username=devCarlosHenSil&color=blueviolet&style=flat)
-
 <table width="100%">
   <thead>
     <tr>
@@ -52,9 +51,9 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
         <a href="https://kotlinlang.org/"><img src="https://i.ibb.co/YPTFgHF/kotlin-redmension.png" alt="kotlin-redmension" title="Kotlin" border="0"></a>
       </td>       
     </tr>
-    
   </tbody>
 </table>
+
 </p>
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
