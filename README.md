@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/zPZrdcM/flatdesignconcept.png" min-width="400px" max-width="400px" width="400px" align="right" alt="flatconcept">
 <p align="left">
-Hello my name is Carlos é, student of Front-End / Back-End and UI / UX Designer development. I am available for freelance / work, if you need to hire my service please contact me.
+I am a student of <strong>Front-End / Back-End </strong>and <strong>UI / UX Designer</strong> development. I am available for freelance / work, if you need to hire my service contact me.
 </p>
 
 
