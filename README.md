@@ -12,7 +12,7 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 <strong>Social Medias:</strong>
 <p></p>
 <p align="left"><a href="https://www.linkedin.com/in/carlos-henrique-silva-dev/" target="_blank"><img src="https://i.ibb.co/2sC0pB6/linkedin-redmension.png" alt="linkedin-redmension" border="0"></a>
-<a href="https://github.com/devCarlosHenSil"target="_blank"><img src="https://i.ibb.co/HTjhxt4/personagem-do-github-redmension.png" alt="personagem-do-github-redmension" border="0">></a>
+<a href="https://github.com/devCarlosHenSil"target="_blank"><img src="https://i.ibb.co/6NNC3pV/githubwhite-redmension.png" alt="githubwhite-redmension" border="0"></a>
 <a href="#"target="_blank"><img src="https://i.ibb.co/YdbgMTG/gitlab-redmension.png" alt="gitlab-redmension" border="0"></a>
 <a href="https://www.reddit.com/user/LendaryStarkS"target="_blank"><img src="https://i.ibb.co/TWnGSvT/reddit-redmension.png" alt="reddit-redmension" border="0"></a>  
 </p>
