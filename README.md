@@ -18,7 +18,7 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 
 **Work Tools:**
 <p></p>
-<p align="left"><img src="https://i.ibb.co/6ZQCtTp/Git-redmension.png" alt="Git-redmension" border="0" />&ensp;&ensp;&ensp;<img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" border="0" />&ensp;&ensp;&ensp;<img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" border="0" />&ensp;&ensp;&ensp;<img src="https://i.ibb.co/X5NxFBN/figma-redmension.png" alt="figma-redmension" border="0" /></p>
+<p align="left"><img src="https://i.ibb.co/NFXK02X/windows-redemension.png" alt="windows-redemension" title="Windows 10" border="0" />&ensp;&ensp;&ensp;<img src="https://i.ibb.co/6ZQCtTp/Git-redmension.png" alt="Git-redmension" border="0" />&ensp;&ensp;&ensp;<img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" border="0" />&ensp;&ensp;&ensp;<img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" border="0" />&ensp;&ensp;&ensp;<img src="https://i.ibb.co/X5NxFBN/figma-redmension.png" alt="figma-redmension" border="0" /></p>
 
 
 
