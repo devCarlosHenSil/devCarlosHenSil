@@ -1,9 +1,13 @@
-### Hi there, I'm [Carlos Henrique!]
+## Hi there, I'm Carlos Henrique!
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+</style>
 <img src="https://i.ibb.co/zPZrdcM/flatdesignconcept.png" min-width="400px" max-width="400px" width="400px" align="right" alt="flatconcept">
-<p align="left">
+<p align="left" font-face="Ubuntu, sans-serif">
 I am a student of <strong>Front-End / Back-End </strong>and <strong>UI / UX Designer</strong> development. I am available for freelance / work, if you need to hire my service contact me.
 </p>
+
 
 
 <!--
