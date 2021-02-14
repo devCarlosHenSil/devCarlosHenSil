@@ -25,7 +25,7 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 
 <table width="100%">
   <thead>
-    <tr>
+    <tr align="center">
       <th>Learning</th>
       <th>Next to Learn</th>
       <th>Interested in learning</th>
@@ -33,18 +33,18 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td align="center">
        <img src="https://i.ibb.co/fSHpZcK/Angular-redmension.png" alt="Angular-redmension" title="Angular" border="0">&ensp;&ensp;&ensp;
                             <img src="https://i.ibb.co/y4khFPj/bootstrap-redmension.png" alt="bootstrap-redmension" title="Bootstrap" border="0">&ensp;&ensp;&ensp;
                             <img src="https://i.ibb.co/Lvq9TXc/node-redmension.png" alt="node-redmension" title="Node.Js" border="0">&ensp;&ensp;&ensp;
                             <img src="https://i.ibb.co/D46tRpV/react-redmension.png" alt="react-redmension" title="React" border="0">
       </td>
-      <td>
+      <td align="center">
         <img src="https://i.ibb.co/zZt8gcN/Python-redmension.png" alt="Python-redmension" title="Python" border="0">&ensp;&ensp;&ensp;
         <img src="https://i.ibb.co/R7h4VJP/php8-redmension.png" alt="php8-redmension" title="PHP8" border="0">&ensp;&ensp;&ensp;
         <img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript" border="0">
       </td>
-      <td>
+      <td align="center">
         <img src="https://i.ibb.co/fQP8ZtY/androidstudio-redmension.png" alt="androidstudio-redmension" title="Android Studio" border="0">&ensp;&ensp;&ensp;
         <img src="https://i.ibb.co/YPTFgHF/kotlin-redmension.png" alt="kotlin-redmension" title="Kotlin" border="0">
       </td>       
@@ -52,6 +52,7 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
     
   </tbody>
 </table>
+</p>
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
