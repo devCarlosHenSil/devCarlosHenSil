@@ -36,7 +36,7 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
   <tbody>
     <tr>
       <td>
-       <img src="https://i.ibb.co/fSHpZcK/Angular-redmension.png" alt="Angular-redmension" title="Angular" href="https://angular.io/" border="0">&ensp;&ensp;&ensp;
+       <a href="https://angular.io/"><img src="https://i.ibb.co/fSHpZcK/Angular-redmension.png" alt="Angular-redmension" title="Angular"  border="0"></a>&ensp;&ensp;&ensp;
                             <img src="https://i.ibb.co/y4khFPj/bootstrap-redmension.png" alt="bootstrap-redmension" title="Bootstrap" border="0">&ensp;&ensp;&ensp;
                             <img src="https://i.ibb.co/7Ns7b5W/node-redmension.png" alt="node-redmension" title="Node.Js" border="0">&ensp;&ensp;&ensp;
                             <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React" border="0"> 
