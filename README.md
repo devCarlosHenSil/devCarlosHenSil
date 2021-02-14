@@ -43,7 +43,7 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
       </td>
       <td>
         <img src="https://i.ibb.co/zZt8gcN/Python-redmension.png" alt="Python-redmension" title="Python" border="0">&ensp;&ensp;&ensp;
-        <img src="https://i.ibb.co/R7h4VJP/php8-redmension.png" alt="php8-redmension" title="PHP8" border="0">&ensp;&ensp;&ensp;
+        <img src="https://i.ibb.co/JzxTTLP/php8-redmension.png" alt="php8-redmension" border="0" alt="php8-redmension" title="PHP8" border="0">&ensp;&ensp;&ensp;
         <img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript" border="0">
       </td>
       <td>
