@@ -59,17 +59,17 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <center>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=devCarlosHenSil&show_icons=true&include_all_commits=true&theme=react" alt="Bruno's github stats" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=devCarlosHenSil&show_icons=true&include_all_commits=true&theme=synthwave" alt="Carlos's github stats" />
       </td>
     </tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devCarlosHenSil&layout=compact&langs_count=20&theme=react" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devCarlosHenSil&layout=compact&langs_count=20&theme=synthwave" />
       </td>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devCarlosHenSil&theme=react&langs_count=20&layout=compact&v2" />
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devXcodeZero&theme=synthwave&langs_count=20&layout=compact&v2&" />
       </td>
     </tr>
     <tr>
-      <td><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devCarlosHenSil&hide_border=true&theme=react" />
+      <td><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devCarlosHenSil&hide_border=true&theme=synthwave" />
       </td>
     </tr>
 
