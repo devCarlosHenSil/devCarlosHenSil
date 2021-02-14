@@ -22,9 +22,12 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 
 **My Stack**
 <p></p>
-<p align="left"><img src="https://i.ibb.co/GQ2D4zm/html5-redmension.png" alt="html5-redmension" title="HTML5" border="0" />&ensp;&ensp;&ensp;<img src="https://i.ibb.co/8drrHdX/css3-redmension.png" alt="css3-redmension" title="CSS3" border="0" />&ensp;&ensp;&ensp;<img src="https://i.ibb.co/rbhJHfj/ES6-redemension.png" alt="ES6-redemension" title="ECMAScript" border="0" /></p>
+<p align="left"><img src="https://i.ibb.co/Q9x7wn0/html5-redmension.png" alt="html5-redmension" title="HTML5" border="0" />&ensp;&ensp;&ensp;<img src="https://i.ibb.co/zZtwrHv/css3-redmension.png" alt="css3-redmension" title="CSS3" border="0" />&ensp;&ensp;&ensp;<img src="https://i.ibb.co/1vZNsFg/ES6-redemension.png" alt="ES6-redemension" title="ECMAScript" border="0" /></p>
 
 **Continuous Learning**
+<p></p>
+<p align="left">
+
 
 
 
