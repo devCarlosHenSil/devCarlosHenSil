@@ -18,7 +18,7 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 
 **Work Tools:**
 <p></p>
-<p align="left"><img src="https://i.ibb.co/6ZQCtTp/Git-redmension.png" alt="Git-redmension" border="0" />&ensp;<img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" border="0" />&ensp;<img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" border="0" />&ensp;<img src="https://i.ibb.co/qd0Hv1C/figma-redmension.png" alt="figma-redmension" border="0" /></p>
+<p align="left"><img src="https://i.ibb.co/6ZQCtTp/Git-redmension.png" alt="Git-redmension" border="0" />&ensp;<img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" border="0" />&ensp;<img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" border="0" />&ensp;<img src="https://i.ibb.co/z6nbRXL/figma-redmension.png" alt="figma-redmension" border="0" /></p>
 
 
 
