@@ -1,6 +1,6 @@
 ### Hi there, I'm [Carlos Henrique!]
 
-<img src="https://i.ibb.co/YRyrNLp/Pngtree-modern-flat-design-concept-of-5332893.png" min-width="400px" max-width="400px" width="400px" align="right" alt="flatconcept">
+<img src="https://i.ibb.co/zPZrdcM/flatdesignconcept.png" min-width="400px" max-width="400px" width="400px" align="right" alt="flatconcept">
 
 <!--
 **devCarlosHenSil/devCarlosHenSil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
