@@ -12,9 +12,9 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 <strong>Social Medias:</strong>
 <p></p>
 <p align="left"><a href="https://www.linkedin.com/in/carlos-henrique-silva-dev/" target="_blank"><img src="https://i.ibb.co/2sC0pB6/linkedin-redmension.png" alt="linkedin-redmension" border="0"></a>
-<a href="https://github.com/devCarlosHenSil"target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt="Badge GitHub"></a>
-<a href="#"target="_blank"><img src=https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white alt="Badge GitLab"></a>
-<a href="https://www.reddit.com/user/LendaryStarkS"target="_blank"><img src=https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white alt="Badge Reddit"></a>  
+<a href="https://github.com/devCarlosHenSil"target="_blank"><img src="https://i.ibb.co/HTjhxt4/personagem-do-github-redmension.png" alt="personagem-do-github-redmension" border="0">></a>
+<a href="#"target="_blank"><img src="https://i.ibb.co/YdbgMTG/gitlab-redmension.png" alt="gitlab-redmension" border="0"></a>
+<a href="https://www.reddit.com/user/LendaryStarkS"target="_blank"><img src="https://i.ibb.co/TWnGSvT/reddit-redmension.png" alt="reddit-redmension" border="0"></a>  
 </p>
 
 **Work Tools:**
