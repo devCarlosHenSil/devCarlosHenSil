@@ -11,15 +11,14 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 </p>
 <strong>Social Medias:</strong>
 <p></p>
-<p align="left"><a href="https://www.linkedin.com/in/carlos-henrique-silva-dev/" target="_blank"><img src="https://i.ibb.co/2sC0pB6/linkedin-redmension.png" alt="linkedin-redmension" border="0"></a>
-<a href="https://github.com/devCarlosHenSil"target="_blank">   <img src="https://i.ibb.co/6NNC3pV/githubwhite-redmension.png" alt="githubwhite-redmension" border="0"></a>
-<a href="#"target="_blank">   <img src="https://i.ibb.co/YdbgMTG/gitlab-redmension.png" alt="gitlab-redmension" border="0"></a>
-<a href="https://www.reddit.com/user/LendaryStarkS"target="_blank"   ><img src="https://i.ibb.co/TWnGSvT/reddit-redmension.png" alt="reddit-redmension" border="0"></a>  
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/carlos-henrique-silva-dev/" target="_blank"><img src="https://i.ibb.co/2sC0pB6/linkedin-redmension.png" alt="linkedin-redmension" border="0" /></a>&ensp;
+<a href="https://github.com/devCarlosHenSil"target="_blank"><img src="https://i.ibb.co/6NNC3pV/githubwhite-redmension.png" alt="githubwhite-redmension" border="0" /></a>&ensp;
+<a href="#"target="_blank">   <img src="https://i.ibb.co/YdbgMTG/gitlab-redmension.png" alt="gitlab-redmension" border="0" /></a>&ensp;
+<a href="https://www.reddit.com/user/LendaryStarkS"target="_blank"><img src="https://i.ibb.co/TWnGSvT/reddit-redmension.png" alt="reddit-redmension" border="0" /></a> 
 
 **Work Tools:**
 <p></p>
-<p align="left"><img src="https://i.ibb.co/6ZQCtTp/Git-redmension.png" alt="Git-redmension" border="0">   <img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" border="0">   <img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" border="0">   <img src="https://i.ibb.co/qd0Hv1C/figma-redmension.png" alt="figma-redmension" border="0"></p>
+<p align="left"><img src="https://i.ibb.co/6ZQCtTp/Git-redmension.png" alt="Git-redmension" border="0" />&ensp;<img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" border="0" />&ensp;<img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" border="0" />&ensp;<img src="https://i.ibb.co/qd0Hv1C/figma-redmension.png" alt="figma-redmension" border="0" /></p>
 
 
 
