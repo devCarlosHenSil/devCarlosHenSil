@@ -1,10 +1,13 @@
 ## Hi there, I'm Carlos Henrique!
 
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
 <img src="https://i.ibb.co/zPZrdcM/flatdesignconcept.png" min-width="400px" max-width="400px" width="400px" align="right" alt="flatconcept">
-<p align="left" font-face="Ubuntu, sans-serif">
-I am a student of <strong>Front-End / Back-End </strong>and <strong>UI / UX Designer</strong> development. I am available for freelance / work, if you need to hire my service contact me.
+<p align="left">
+In love with
+technology, in a constant evolution of learning the best technologies for <strong>Front-End</strong>
+ and <strong>Back-End</strong> development.
+</p>
+<p align="left">
+Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with great dedication. I am **available** for freelance / work, contact me.
 </p>
 
 
