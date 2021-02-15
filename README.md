@@ -1,5 +1,5 @@
 <a href="#">
-<img width="auto" src="https://i.ibb.co/XS68v06/banner.png" alt="banner" border="0">
+<img width="auto" src="https://i.ibb.co/XS68v06/banner.png" alt="banner" border="0" />
 </a>
 
 ## Hi there, I'm [Carlos Henrique]()!<a href="#"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png"></a>
@@ -29,7 +29,7 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 <img src="https://i.ibb.co/6ZQCtTp/Git-redmension.png" alt="Git-redmension" title="Git" border="0" />
 </a>&ensp;&ensp;&ensp;
 <a href="https://www.sourcetreeapp.com/" target="_blank">
-<img src="https://i.ibb.co/kxWq8b0/Source-Tree-redemension.png" alt="Source-Tree-redemension" title="Sourcetree" border="0">
+<img src="https://i.ibb.co/kxWq8b0/Source-Tree-redemension.png" alt="Source-Tree-redemension" title="Sourcetree" border="0" />
 </a>&ensp;&ensp;&ensp;
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" title="VS Code" border="0" />
@@ -77,38 +77,38 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
     <tr>
       <td>
        <a href="https://angular.io/">
-       <img src="https://i.ibb.co/fSHpZcK/Angular-redmension.png" alt="Angular-redmension" title="Angular"  border="0">
+       <img src="https://i.ibb.co/fSHpZcK/Angular-redmension.png" alt="Angular-redmension" title="Angular"  border="0" />
        </a>&ensp;&ensp;&ensp;
         <a href="https://getbootstrap.com/">
-        <img src="https://i.ibb.co/y4khFPj/bootstrap-redmension.png" alt="bootstrap-redmension" title="Bootstrap" border="0">
+        <img src="https://i.ibb.co/y4khFPj/bootstrap-redmension.png" alt="bootstrap-redmension" title="Bootstrap" border="0" />
         </a>&ensp;&ensp;&ensp;
         <a href="https://nodejs.org/en/">
-        <img src="https://i.ibb.co/7Ns7b5W/node-redmension.png" alt="node-redmension" title="Node.Js" border="0">
+        <img src="https://i.ibb.co/7Ns7b5W/node-redmension.png" alt="node-redmension" title="Node.Js" border="0" />
         </a>&ensp;&ensp;&ensp;
         <a href="https://pt-br.reactjs.org/">
-        <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React" border="0">
+        <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React" border="0" />
         </a> 
       </td>
       <td>
         <a href="https://www.python.org/">
-        <img src="https://i.ibb.co/zZt8gcN/Python-redmension.png" alt="Python-redmension" title="Python" border="0">
+        <img src="https://i.ibb.co/zZt8gcN/Python-redmension.png" alt="Python-redmension" title="Python" border="0" />
         </a>&ensp;&ensp;&ensp;
         <a href="https://www.php.net/">
-        <img src="https://i.ibb.co/JzxTTLP/php8-redmension.png" alt="php8-redmension" border="0" alt="php8-redmension" title="PHP8" border="0">
+        <img src="https://i.ibb.co/JzxTTLP/php8-redmension.png" alt="php8-redmension" alt="php8-redmension" title="PHP8" border="0" />
         </a>&ensp;&ensp;&ensp;
         <a href="https://www.typescriptlang.org/">
-        <img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript" border="0">
+        <img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript" border="0" />
         </a>
       </td>
       <td>
         <a href="https://sass-lang.com/documentation/syntax">
-        <img src="https://i.ibb.co/FsGpytB/scss-redmension.png" alt="scss-redmension" border="0">
+        <img src="https://i.ibb.co/FsGpytB/scss-redmension.png" alt="scss-redmension" border="0" />
         </a>&ensp;&ensp;&ensp;
         <a href="https://developer.android.com/studio">
-        <img src="https://i.ibb.co/fQP8ZtY/androidstudio-redmension.png" alt="androidstudio-redmension" title="Android Studio" border="0">
+        <img src="https://i.ibb.co/fQP8ZtY/androidstudio-redmension.png" alt="androidstudio-redmension" title="Android Studio" border="0" />
         </a>&ensp;&ensp;&ensp;
         <a href="https://kotlinlang.org/">
-        <img src="https://i.ibb.co/YPTFgHF/kotlin-redmension.png" alt="kotlin-redmension" title="Kotlin" border="0">
+        <img src="https://i.ibb.co/YPTFgHF/kotlin-redmension.png" alt="kotlin-redmension" title="Kotlin" border="0" />
         </a>
       </td>       
     </tr>
@@ -129,7 +129,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <td>
       <p align="center">
       <a href="#">
-      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=devCarlosHenSil&hide_border=true&show_icons=true&include_all_commits=true&theme=synthwave" alt="Carlos's github stats" />
+      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=devCarlosHenSil&hide_border=true&show_icons=true&include_all_commits=true&theme=synthwave" alt="Carlos's github stats" border="0" />
       </a>
       </p>
       </td>
@@ -137,7 +137,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <td>
       <p align="center">
       <a href="#">
-      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devCarlosHenSil&hide_border=true&layout=compact&langs_count=20&theme=synthwave" />
+      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devCarlosHenSil&hide_border=true&layout=compact&langs_count=20&theme=synthwave" border="0" />
       </a>
       </p>
       </td>
@@ -145,7 +145,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <td>
       <p align="center">
       <a href="#">
-      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devXcodeZero&hide_border=true&theme=synthwave&langs_count=20&layout=compact&v2&" />
+      <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devXcodeZero&hide_border=true&theme=synthwave&langs_count=20&layout=compact&v2&" border="0" />
       </a>
       </p>
       </td>
@@ -154,7 +154,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <td>
       <p align="center">
       <a href="#">
-      <img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devCarlosHenSil&hide_border=true&theme=synthwave" />
+      <img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devCarlosHenSil&hide_border=true&theme=synthwave" border="0" />
       </a>
       </p>
       </td>
@@ -184,5 +184,5 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <br/>
 <br/>
 <a href="#">
-<img width= "auto" src="https://i.ibb.co/2KTf5Lh/footer.png" alt="footer" border="0">
+<img width= "auto" src="https://i.ibb.co/2KTf5Lh/footer.png" alt="footer" border="0" />
 </a>
