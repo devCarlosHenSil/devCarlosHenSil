@@ -15,7 +15,14 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 
 **Work Tools**
 <p></p>
-<p align="left"><a href="https://www.microsoft.com/pt-br/windows/" target="_blank"><img src="https://i.ibb.co/NFXK02X/windows-redemension.png" alt="windows-redemension" title="Windows 10" border="0" /></a>&ensp;&ensp;&ensp;<a href="https://git-scm.com/" target="_blank"><img src="https://i.ibb.co/6ZQCtTp/Git-redmension.png" alt="Git-redmension" title="Git" border="0" /></a>&ensp;&ensp;&ensp;<a href="https://code.visualstudio.com/" target="_blank"><img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" title="VS Code" border="0" /></a>&ensp;&ensp;&ensp;<a href="https://www.notion.so/login" target="_blank"><img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" title="Notion" border="0" /></a>&ensp;&ensp;&ensp;<a href="https://www.figma.com/" target="_blank"><img src="https://i.ibb.co/X5NxFBN/figma-redmension.png" alt="figma-redmension" title="Figma" border="0" /></a></p>
+<p align="left">
+
+<a href="https://www.microsoft.com/pt-br/windows/" target="_blank"><img src="https://i.ibb.co/NFXK02X/windows-redemension.png" alt="windows-redemension" title="Windows 10" border="0" /></a>&ensp;&ensp;&ensp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://i.ibb.co/6ZQCtTp/Git-redmension.png" alt="Git-redmension" title="Git" border="0" /></a>&ensp;&ensp;&ensp;
+<a href="https://www.sourcetreeapp.com/" target="_blank"><img src="https://i.ibb.co/kxWq8b0/Source-Tree-redemension.png" alt="Source-Tree-redemension" title="Sourcetree" border="0"></a>&ensp;&ensp;&ensp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" title="VS Code" border="0" /></a>&ensp;&ensp;&ensp;
+<a href="https://www.notion.so/login" target="_blank"><img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" title="Notion" border="0" /></a>&ensp;&ensp;&ensp;
+<a href="https://www.figma.com/" target="_blank"><img src="https://i.ibb.co/X5NxFBN/figma-redmension.png" alt="figma-redmension" title="Figma" border="0" /></a></p>
 
 **My Stack**
 <p></p>
