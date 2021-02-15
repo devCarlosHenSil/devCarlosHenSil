@@ -1,6 +1,6 @@
 <a href="#"><img width="auto" src="https://i.ibb.co/XS68v06/banner.png" alt="banner" border="0"></a>
 
-## Hi there, I'm [Carlos Henrique]()!<a href="#"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png"></a>
+## Hi there, I'm [Carlos Henrique]()!
 
 <a href="#"><img src="https://i.ibb.co/zPZrdcM/flatdesignconcept.png" min-width="400px" max-width="400px" width="400px" align="right" alt="flatconcept"></a>
 <p align="left">
