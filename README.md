@@ -102,7 +102,7 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
       </td>
       <td>
         <a href="https://sass-lang.com/documentation/syntax">
-        <img src="https://i.ibb.co/FsGpytB/scss-redmension.png" alt="scss-redmension" border="0" />
+        <img src="https://i.ibb.co/FsGpytB/scss-redmension.png" alt="scss-redmension" title="SCSS" border="0" />
         </a>&ensp;&ensp;&ensp;
         <a href="https://developer.android.com/studio">
         <img src="https://i.ibb.co/fQP8ZtY/androidstudio-redmension.png" alt="androidstudio-redmension" title="Android Studio" border="0" />
