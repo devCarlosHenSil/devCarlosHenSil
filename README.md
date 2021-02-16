@@ -7,15 +7,17 @@
 <a href="#">
     <img src="https://i.ibb.co/zPZrdcM/flatdesignconcept.png" min-width="400px" max-width="400px" width="400px" align="right" alt="flatconcept">
 </a>
+
 <p align="left">
-In love with
-technology, in a constant evolution of learning the best technologies for <strong>Front-End</strong>
- and <strong>Back-End</strong> development.
+    In love with
+    technology, in a constant evolution of learning the best technologies for <strong>Front-End</strong>
+    and <strong>Back-End</strong> development.
 </p>
+
 <p align="left">
-Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with great dedication. I am <strong>available</strong> for freelance and work, contact me through my social networks.
+    Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with great dedication. I am <strong>available</strong> for freelance and work, contact me through my social networks.
 </p>
-<br>
+    <br>
 
 **Work Tools**
 
@@ -37,7 +39,7 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
                         </a>&ensp;&ensp;&ensp;
                               <a href="https://www.soapui.org/" target="_blank">
                               <img src="https://i.ibb.co/cF1Pyn8/soapui-redmension.png" width="36px" alt="soapui-redmension" title ="Soap-UI" border="0" />
-</a>
+                        </a>
 </p>
 
 <p align="left">
@@ -72,8 +74,8 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
                 <img src="https://i.ibb.co/Sx1SRs8/xml-redmension.png" alt="xml-redmension" title="XML" border="0" />
                 </a>&ensp;&ensp;&ensp;
                       <a href="https://www.json.org/json-en.html">
-                      <img src="https://i.ibb.co/WD3shv6/JSON-redmension.png" alt="JSON-redmension" border="0" />
-</a>
+                      <img src="https://i.ibb.co/WD3shv6/JSON-redmension.png" alt="JSON-redmension" title="JSON" border="0" />
+                      </a>
 </p>
 
 
@@ -200,8 +202,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
                 <a href="https://www.reddit.com/user/LendaryStarkS"target="_blank">
                 <img src="https://i.ibb.co/TWnGSvT/reddit-redmension.png" alt="reddit-redmension" title="Reddit" border="0" />
                 </a>
-<br/>
-<br/>
+                          <br/>
+                          <br/>
 <a href="#">
-<img width= "auto" src="https://i.ibb.co/2KTf5Lh/footer.png" alt="footer" border="0" />
+    <img width= "auto" src="https://i.ibb.co/2KTf5Lh/footer.png" alt="footer" border="0" />
 </a>
