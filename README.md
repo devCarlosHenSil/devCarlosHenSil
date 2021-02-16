@@ -55,6 +55,9 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 </a>&ensp;&ensp;&ensp;
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
 <img src="https://i.ibb.co/1vZNsFg/ES6-redemension.png" alt="ES6-redemension" title="ECMAScript" border="0" />
+</a>&ensp;&ensp;&ensp;
+<a href="https://www.w3.org/TR/REC-xml/">
+<img src="https://i.ibb.co/Sx1SRs8/xml-redmension.png" alt="xml-redmension" title="XML" border="0" />
 </a>
 </p>
 
