@@ -38,13 +38,13 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 <img src="https://i.ibb.co/0yc9N97/postman-redmension.png" alt="postman-redmension"  title="Postman"border="0" />
 </a>&ensp;&ensp;&ensp;
 <a href="https://www.soapui.org/" target="_blank">
-<img src="https://i.ibb.co/cF1Pyn8/soapui-redmension.png" width="36px"alt="soapui-redmension" title ="Soap-UI" border="0" />
+<img src="https://i.ibb.co/cF1Pyn8/soapui-redmension.png" width="36px" alt="soapui-redmension" title ="Soap-UI" border="0" />
 </a>&ensp;&ensp;&ensp;
 <a href="https://www.notion.so/login" target="_blank">
 <img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" title="Notion" border="0" />
 </a>&ensp;&ensp;&ensp;
 <a href="https://www.figma.com/" target="_blank">
-<img src="https://i.ibb.co/X5NxFBN/figma-redmension.png" alt="figma-redmension" title="Figma" border="0" />
+<img src="https://i.ibb.co/X5NxFBN/figma-redmension.png" width="36px" alt="figma-redmension" title="Figma" border="0" />
 </a>
 </p>
 
