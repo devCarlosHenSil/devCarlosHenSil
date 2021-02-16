@@ -43,10 +43,12 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 <a href="https://www.notion.so/login" target="_blank">
 <img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" title="Notion" border="0" />
 </a>&ensp;&ensp;&ensp;
-<a href="https://www.figma.com/" target="_blank">
+</p>
+<p align="left"><a href="https://www.figma.com/" target="_blank">
 <img src="https://i.ibb.co/K737QdN/Figma-redmension.png" alt="Figma-redmension" title="Figma"border="0" />
 </a>
 </p>
+
 
 **My Stack**
 
