@@ -34,6 +34,12 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" title="VS Code" border="0" />
 </a>&ensp;&ensp;&ensp;
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://i.ibb.co/TbtgJM8/postman.png" alt="postman" title="Postman" border="0" />
+</a>&ensp;&ensp;&ensp;
+<a href="https://www.soapui.org/" target="_blank">
+<img src="https://i.ibb.co/cF1Pyn8/soapui-redmension.png" alt="soapui-redmension" title ="Soap-UI" border="0" />
+</a>&ensp;&ensp;&ensp;
 <a href="https://www.notion.so/login" target="_blank">
 <img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" title="Notion" border="0" />
 </a>&ensp;&ensp;&ensp;
@@ -58,6 +64,9 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 </a>&ensp;&ensp;&ensp;
 <a href="https://www.w3.org/TR/REC-xml/">
 <img src="https://i.ibb.co/Sx1SRs8/xml-redmension.png" alt="xml-redmension" title="XML" border="0" />
+</a>&ensp;&ensp;&ensp;
+<a href="https://www.json.org/json-en.html">
+<img src="https://i.ibb.co/WD3shv6/JSON-redmension.png" alt="JSON-redmension" border="0" />
 </a>
 </p>
 
