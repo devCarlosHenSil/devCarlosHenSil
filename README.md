@@ -44,7 +44,7 @@ Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with gre
 <img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" title="Notion" border="0" />
 </a>&ensp;&ensp;&ensp;
 <a href="https://www.figma.com/" target="_blank">
-<img src="https://i.ibb.co/X5NxFBN/figma-redmension.png" width="36px" alt="figma-redmension" title="Figma" border="0" />
+<img src="https://i.ibb.co/hc53v2z/figma.png" alt="figma" width="36px"title="Figma" border="0" />
 </a>
 </p>
 
