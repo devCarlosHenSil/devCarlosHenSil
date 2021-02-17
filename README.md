@@ -78,11 +78,6 @@
                       </a>
 </p>
 
-
-**Statistics:**
-
-![](https://komarev.com/ghpvc/?username=devCarlosHenSil&color=blueviolet&style=flat)
-
 ---
 
 <table width="100%">
@@ -139,15 +134,20 @@
 
 ---
 
-
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
-<br/>
+---
 
+<p align="center" >
+<strong>Statistics</strong>
+<br/>
+<br/>
+<img href="#" src="https://komarev.com/ghpvc/?username=devCarlosHenSil&color=blueviolet&style=flat" border="0" />
+</p>
 <center>
     <tr>
       <td>
-        <p align="center">
+        <p align="center" >
           <a href="#">
           <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=devCarlosHenSil&hide_border=true&show_icons=true&include_all_commits=true&theme=synthwave" alt="Carlos's github stats" border="0" />
           </a>
