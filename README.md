@@ -165,7 +165,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <td>
         <p align="center">
           <a href="#">
-          <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devXcodeZero&hide_border=true&theme=synthwave&langs_count=20&layout=compact&v2&" border="0" />
+          <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devXcodeZero&hide_border=true&theme=synthwave&langs_count=20&layout=compact&v2&" border="0" />
           </a>
         </p>
       </td>
