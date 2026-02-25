@@ -138,18 +138,23 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
+
+
 <p align="center" >
 <strong>Statistics</strong>
 <br/>
 <br/>
-<img href="#" src="https://komarev.com/ghpvc/?username=devCarlosHenSil&color=blueviolet&style=flat" border="0" />
+    <a href="#" >
+        <img src="https://komarev.com/ghpvc/?username=devCarlosHenSil&color=blueviolet&style=flat" border="0" />
+    </a>
+
 </p>
 <center>
     <tr>
       <td>
         <p align="center" >
           <a href="#">
-          <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=devCarlosHenSil&hide_border=true&show_icons=true&include_all_commits=true&theme=synthwave" alt="Carlos's github stats" border="0" />
+          <img width="495px" height="195px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devCarlosHenSil&theme=nord_bright" border="0" />
           </a>
        </p>
       </td>
@@ -157,7 +162,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <td>
         <p align="center">
           <a href="#">
-          <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devCarlosHenSil&hide_border=true&layout=compact&langs_count=20&theme=synthwave" border="0" />
+          <img  width="495px" height="195px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devCarlosHenSil&theme=nord_bright&exclude={exclude}"/>
           </a>
        </p>
       </td>
@@ -165,7 +170,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <td>
         <p align="center">
           <a href="#">
-          <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devXcodeZero&hide_border=true&theme=synthwave&langs_count=20&layout=compact&v1&" border="0" />
+          <img width="495px" height="195px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devCarlosHenSil&theme=nord_bright&utcOffset=+8" />
           </a>
         </p>
       </td>
@@ -174,11 +179,20 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <td>
       <p align="center">
         <a href="#">
-          <img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devCarlosHenSil&hide_border=true&theme=synthwave" border="0" />
+          <img width="495px" height="195px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devCarlosHenSil&hide_border=true&theme=nord_bright&locale=pt_BR&exclude_days=Sun%2CSat" border="0" />
           </a>
       </p>
       </td>
     </tr>
+    <td>
+        <tr>
+            <p align="center">
+                <a href="#"> 
+                <img width="495px" height="195px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devCarlosHenSil&theme=nord_bright"/>
+                </a>                   
+            </p>
+        </tr>
+    </td>
 
 </center>
 
