@@ -142,7 +142,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <strong>Statistics</strong>
 <br/>
 <br/>
-<img href="#" src="https://komarev.com/ghpvc/?username=devCarlosHenSil&color=blueviolet&style=flat" border="0" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?devCarlosHenSil=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <center>
     <tr>
