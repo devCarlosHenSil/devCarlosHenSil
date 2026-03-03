@@ -1,223 +1,109 @@
-<a href="#">
-    <img width="auto" src="https://i.ibb.co/XS68v06/banner.png" alt="banner" border="0" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
 
-## Hi there, I'm [Carlos Henrique]()!<a href="#"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png"></a>
+<br>
 
-<a href="#">
-    <img src="https://i.ibb.co/zPZrdcM/flatdesignconcept.png" min-width="400px" max-width="400px" width="400px" align="right" alt="flatconcept">
-</a>
+<div align="center">
+  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+</div>
 
-<p align="left">
-    In love with
-    technology, in a constant evolution of learning the best technologies for <strong>Front-End</strong>
-    and <strong>Back-End</strong> development.
-</p>
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Carlos Henrique</b>
+  </samp>
+</div>
 
-<p align="left">
-    Starting the <strong>UI</strong> and <strong>UX Design</strong> studies with great dedication. I am <strong>available</strong> for freelance and work, contact me through my social networks.
-</p>
-    <br>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-**Work Tools**
+<br>
 
-<p>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/kami_♡-black" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devCarlosHenSil&theme=zenburn"/>
+</div>
 
-<p align="left">
-        <a href="https://www.microsoft.com/pt-br/windows/" target="_blank">
-        <img src="https://i.ibb.co/NFXK02X/windows-redemension.png" alt="windows-redemension" title="Windows 10" border="0" />
-        </a>&ensp;&ensp;&ensp;
-              <a href="https://git-scm.com/" target="_blank">
-              <img src="https://i.ibb.co/6ZQCtTp/Git-redmension.png" alt="Git-redmension" title="Git" border="0" />
-              </a>&ensp;&ensp;&ensp;
-                    <a href="https://www.sourcetreeapp.com/" target="_blank">
-                    <img src="https://i.ibb.co/kxWq8b0/Source-Tree-redemension.png" alt="Source-Tree-redemension" title="Sourcetree" border="0" />
-                        </a>&ensp;&ensp;&ensp;
-                        <a href="https://www.postman.com/" target="_blank">
-                        <img src="https://i.ibb.co/0yc9N97/postman-redmension.png" alt="postman-redmension"  title="Postman"border="0" />
-                        </a>&ensp;&ensp;&ensp;
-                              <a href="https://www.soapui.org/" target="_blank">
-                              <img src="https://i.ibb.co/cF1Pyn8/soapui-redmension.png" width="36px" alt="soapui-redmension" title ="Soap-UI" border="0" />
-                        </a>
-</p>
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  
+</div>
 
-<p align="left">
-    <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://i.ibb.co/4VFjd1t/visualcode-redmension.png" alt="visualcode-redmension" title="VS Code" border="0" />
-    </a>&ensp;&ensp;&ensp;
-        <a href="https://www.figma.com/" target="_blank">
-        <img src="https://i.ibb.co/K737QdN/Figma-redmension.png" alt="Figma-redmension" title="Figma"border="0" />
-        </a>&ensp;&ensp;&ensp;
-            <a href="https://www.notion.so/login" target="_blank">
-            <img src="https://i.ibb.co/jG5GySm/notion-redmension.png" alt="notion-redmension" title="Notion" border="0" />
-            </a>
-</p>
+<br>
+<br>
 
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
 
-**My Stack**
+##
 
-<p>
-</p>
+<br>
 
-<p align="left">
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
-    <img src="https://i.ibb.co/Q9x7wn0/html5-redmension.png" alt="html5-redmension" title="HTML5" border="0" />
-    </a>&ensp;&ensp;&ensp;
-        <a href="https://www.w3schools.com/css/">
-        <img src="https://i.ibb.co/zZtwrHv/css3-redmension.png" alt="css3-redmension" title="CSS3" border="0" />
-        </a>&ensp;&ensp;&ensp;
-            <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
-            <img src="https://i.ibb.co/1vZNsFg/ES6-redemension.png" alt="ES6-redemension" title="ECMAScript" border="0" />
-            </a>&ensp;&ensp;&ensp;
-                <a href="https://www.w3.org/TR/REC-xml/">
-                <img src="https://i.ibb.co/Sx1SRs8/xml-redmension.png" alt="xml-redmension" title="XML" border="0" />
-                </a>&ensp;&ensp;&ensp;
-                      <a href="https://www.json.org/json-en.html">
-                      <img src="https://i.ibb.co/WD3shv6/JSON-redmension.png" alt="JSON-redmension" title="JSON" border="0" />
-                      </a>
-</p>
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
 
----
+  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sh.carlos.henrique@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/karlos_hennryque/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/lilithstorm)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/carlos-henrique-silva-dev/)
+  
+</div>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th>Learning</th>
-      <th>Next to Learn</th>
-      <th>Interested in learning</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-            <a href="https://angular.io/">
-            <img src="https://i.ibb.co/fSHpZcK/Angular-redmension.png" alt="Angular-redmension" title="Angular"  border="0" />
-            </a>&ensp;&ensp;&ensp;
-                  <a href="https://getbootstrap.com/">
-                  <img src="https://i.ibb.co/y4khFPj/bootstrap-redmension.png" alt="bootstrap-redmension" title="Bootstrap" border="0" />
-                  </a>&ensp;&ensp;&ensp;
-                      <a href="https://nodejs.org/en/">
-                      <img src="https://i.ibb.co/7Ns7b5W/node-redmension.png" alt="node-redmension" title="Node.Js" border="0" />
-                      </a>&ensp;&ensp;&ensp;
-                          <a href="https://pt-br.reactjs.org/">
-                          <img src="https://i.ibb.co/TccNxn6/react-redmension.png" alt="react-redmension" title="React" border="0" />
-                          </a> 
-      </td>
-      <td>
-        <a href="https://www.python.org/">
-        <img src="https://i.ibb.co/zZt8gcN/Python-redmension.png" alt="Python-redmension" title="Python" border="0" />
-        </a>&ensp;&ensp;&ensp;
-              <a href="https://www.php.net/">
-              <img src="https://i.ibb.co/JzxTTLP/php8-redmension.png" alt="php8-redmension" alt="php8-redmension" title="PHP8" border="0" />
-              </a>&ensp;&ensp;&ensp;
-                  <a href="https://www.typescriptlang.org/">
-                  <img src="https://i.ibb.co/TM7HFJb/typescript-redmension.png" alt="typescript-redmension" title="TypeScript" border="0" />
-                  </a>
-      </td>
-      <td>
-        <a href="https://sass-lang.com/documentation/syntax">
-        <img src="https://i.ibb.co/FsGpytB/scss-redmension.png" alt="scss-redmension" title="SCSS" border="0" />
-        </a>&ensp;&ensp;&ensp;
-              <a href="https://developer.android.com/studio">
-              <img src="https://i.ibb.co/fQP8ZtY/androidstudio-redmension.png" alt="androidstudio-redmension" title="Android Studio" border="0" />
-              </a>&ensp;&ensp;&ensp;
-                    <a href="https://kotlinlang.org/">
-                    <img src="https://i.ibb.co/YPTFgHF/kotlin-redmension.png" alt="kotlin-redmension" title="Kotlin" border="0" />
-                    </a>
-      </td>       
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <p align="center">
+      <samp>
+        ♡ <a href="https://rentry.co/">rentry</a> ⊹
+        <a href="https://linktr.ee/">linktr.ee</a> ⊹
+        <a href="">carrd.co</a> ⊹
+        <a href="">notion</a> ♡
+      </samp>
+  </p>
+</div>
+<br>
 
-</p>
+</details>
 
----
+##
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
+<br>
 
----
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=devCarlosHenSil&style=flat-square&color=123845" /></p> 
+</div>
 
+<br>
 
-
-<p align="center" >
-<strong>Statistics</strong>
-<br/>
-<br/>
-    <a href="#" >
-        <img src="https://komarev.com/ghpvc/?username=devCarlosHenSil&color=blueviolet&style=flat" border="0" />
-    </a>
-
-</p>
-<center>
-    <tr>
-      <td>
-        <p align="center" >
-          <a href="#">
-          <img width="495px" height="195px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devCarlosHenSil&theme=nord_bright" border="0" />
-          </a>
-       </p>
-      </td>
-    </tr>
-      <td>
-        <p align="center">
-          <a href="#">
-          <img  width="495px" height="195px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devCarlosHenSil&theme=nord_bright&exclude={exclude}"/>
-          </a>
-       </p>
-      </td>
-    <tr>
-      <td>
-        <p align="center">
-          <a href="#">
-          <img width="495px" height="195px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devCarlosHenSil&theme=nord_bright&utcOffset=+8" />
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-      <p align="center">
-        <a href="#">
-          <img width="495px" height="195px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devCarlosHenSil&hide_border=true&theme=nord_bright&locale=pt_BR&exclude_days=Sun%2CSat" border="0" />
-          </a>
-      </p>
-      </td>
-    </tr>
-    <td>
-        <tr>
-            <p align="center">
-                <a href="#"> 
-                <img width="495px" height="195px" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devCarlosHenSil&theme=nord_bright"/>
-                </a>                   
-            </p>
-        </tr>
-    </td>
-
-</center>
-
----
-<p align="center">
-<strong>Follow me on Social Media</strong>
-</p>
-<p>
-</p>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/carlos-henrique-silva-dev/" target="_blank">
-    <img src="https://i.ibb.co/2sC0pB6/linkedin-redmension.png" alt="linkedin-redmension" title="Linkedin" border="0" />
-    </a>&ensp;&ensp;&ensp;
-        <a href="https://github.com/devCarlosHenSil"target="_blank">
-        <img src="https://i.ibb.co/23MV8MP/githubwhite-redmension.png" alt="githubwhite-redmension" title="GitHub" border="0" />
-        </a>&ensp;&ensp;&ensp;
-            <a href="#"target="_blank">
-            <img src="https://i.ibb.co/YdbgMTG/gitlab-redmension.png" alt="gitlab-redmension" title="GitLab" border="0" />
-            </a>&ensp;&ensp;&ensp;
-                <a href="https://www.reddit.com/user/LendaryStarkS"target="_blank">
-                <img src="https://i.ibb.co/TWnGSvT/reddit-redmension.png" alt="reddit-redmension" title="Reddit" border="0" />
-                </a>
-                          <br/>
-                          <br/>
-<a href="#">
-    <img width= "auto" src="https://i.ibb.co/2KTf5Lh/footer.png" alt="footer" border="0" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
