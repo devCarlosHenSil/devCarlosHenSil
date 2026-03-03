@@ -89,7 +89,7 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sh.carlos.henrique@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/karlos_hennryque/)
-  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/lilithstorm)
+  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/atHQAnQm)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/carlos-henrique-silva-dev/)
 </div>
 
