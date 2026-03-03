@@ -16,14 +16,12 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&pause=1000&color=7F9F7F&center=true&width=900&lines=I'm+from+Brazil;Full-stack+web+and+app+developer;Experienced+UI%2FUX+Designer;%2B10+years+of+coding+experience;Always+learning+new+things;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
+
       
 <br>
 <br>
